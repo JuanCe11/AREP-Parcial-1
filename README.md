@@ -4,7 +4,7 @@ Taller de verificación de conocimientos técnicos
 
  [![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://arep-parcial-1.herokuapp.com/)
  
- [![CircleCI](https://app.circleci.com/pipelines/github/JuanCe11/AREP-Parcial-1)
+ [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/JuanCe11/AREP-Parcial-1)
  
 
 ## Comenzando 
