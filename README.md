@@ -1,10 +1,10 @@
-# TÌtulo del Proyecto
+# T√≠tulo del Proyecto
 
-Taller de verificaciÛn de conocimientos tÈcnicos
+Taller de verificaci√≥n de conocimientos t√©cnicos
 
  [![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://arep-parcial-1.herokuapp.com/)
  
- [!CircleCI](https://app.circleci.com/pipelines/github/JuanCe11/AREP-Parcial-1)
+ [![CircleCI](https://app.circleci.com/pipelines/github/JuanCe11/AREP-Parcial-1)
  
 
 ## Comenzando 
@@ -23,9 +23,9 @@ git clone https://github.com/JuanCe11/AREP-Parcial-1.git
 - Maven - [How install](https://maven.apache.org/install.html)
 
 
-### InstalaciÛn 
+### Instalaci√≥n 
 
-Para la correcta instalaciÛn se debe primero clonar el repositorio como se indicÛ anteriormente, despuÈs se ingresa al directorio del proyecto y para ejecutar la clase App (el servicio web) se ejecutan los siguientes comandos en windows.
+Para la correcta instalaci√≥n se debe primero clonar el repositorio como se indic√≥ anteriormente, despu√©s se ingresa al directorio del proyecto y para ejecutar la clase App (el servicio web) se ejecutan los siguientes comandos en windows.
 
 ```
 cd AREP-Parcial-1
@@ -71,29 +71,29 @@ mvn test
 
 ### Analice las pruebas end-to-end 
 
-Las pruebas propuestas est·n enfocadas a la clase _Calculator_ pero al probar las funcionalidades de esta clase se est·n utilizando todas las clases de la logica de soluciÛn.
+Las pruebas propuestas est√°n enfocadas a la clase _Calculator_ pero al probar las funcionalidades de esta clase se est√°n utilizando todas las clases de la logica de soluci√≥n.
 
-Se est· probando que el lector de archivos funcione para obtener los datos, se crea la lista encadenada y se le agregan los nodos con los valores que se obtuvieron de los archivos.
+Se est√° probando que el lector de archivos funcione para obtener los datos, se crea la lista encadenada y se le agregan los nodos con los valores que se obtuvieron de los archivos.
 
 
 ## Construido con 
 
 * [Java 8](https://www.java.com/es/about/whatis_java.jsp)
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [Spark Java](http://sparkjava.com/) - Framework de aplicaciÛn web.
+* [Spark Java](http://sparkjava.com/) - Framework de aplicaci√≥n web.
 
 
 ## Wiki
 
-Puedes encontrar mucho m·s de cÛmo utilizar este proyecto en nuestra [Wiki](https://github.com/JuanCe11/AREP-Taller-Heroku/wiki)
+Puedes encontrar mucho m√°s de c√≥mo utilizar este proyecto en nuestra [Wiki](https://github.com/JuanCe11/AREP-Taller-Heroku/wiki)
 
 
 ## Autores 
 
-* **Juan Sebastia GÛmez LÛpez** - *Trabajo Inicial* - [JuanCe11](https://github.com/JuanCe11)
+* **Juan Sebastia G√≥mez L√≥pez** - *Trabajo Inicial* - [JuanCe11](https://github.com/JuanCe11)
 
 
 ## Licencia
 
-Este proyecto est· bajo la Licencia GNU General Public License - mira el archivo [LICENSE.txt](LICENSE.txt) para detalles
+Este proyecto est√° bajo la Licencia GNU General Public License - mira el archivo [LICENSE.txt](LICENSE.txt) para detalles
 
