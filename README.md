@@ -41,6 +41,18 @@ java -cp target/classes:target/dependency/* edu.escuelaing.arep.web.App
 ```
 Cuando se tenga el servicio corriendo se ingresa a la direccion http://localhost:4567/ para ver el el servicio en el navegador.
 
+Para ejecutar el cliente web utilice los sigueinte comandos para un sistema windows
+
+```
+java -cp target/classes;target/dependency/* edu.escuelaing.arep.web.Client
+```
+Para sistemas linux usar: 
+
+```
+java -cp target/classes:target/dependency/* edu.escuelaing.arep.web.Client
+```
+
+
 Puede revisar las fuentes del proyecto revisar a detalle los test.
 
 Puede generar la docuementacion usando:

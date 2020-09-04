@@ -12,8 +12,8 @@ import java.util.Set;
 public class Client {
 
 	public static void main(String[] args) throws Exception {
-		readURL("http://localhost:4567/");
-		readURL("http://localhost:4567/result?list=160%2C591%2C114%2C229%2C230%2C270%2C128%2C1657%2C624%2C1503");
+		readURL("https://arep-parcial-1.herokuapp.com/");
+		readURL("https://arep-parcial-1.herokuapp.com//result?list=160%2C591%2C114%2C229%2C230%2C270%2C128%2C1657%2C624%2C1503");
 
 	}
 
